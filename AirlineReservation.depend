@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654600573 source:c:\users\nthny\onedrive\documents\--- bsm cs 1b - 2nd sem ---\computer programming ii\airlinereservation\main.cpp
+	<iostream>
+	<string>
+	<Windows.h>
+
